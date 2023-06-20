@@ -25,3 +25,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baalajis&theme=dark" alt="baalajis" /></p>
 
+![Snake animation](https://github.com/BaalajiS/BaalajiS/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=BaalajiS&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="BaalajiS" />
+</div>
