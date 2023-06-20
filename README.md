@@ -2,7 +2,7 @@
 <img height=450 width=1080 src="https://github.com/BaalajiS/BaalajiS/assets/110992188/8d090597-0f09-4e7b-b8ae-f3c94392aa7f">
 </p>
 <h1 align="center">Hi 👋, I'm Baalaji sakthivel S</h1>
-<a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?      font=white&pause=1000&color=7393B3&width=500&height=100&lines=Full+Stack+Developer;Leet+Coding;Mining;Profesional+Gamer;" alt="Typing SVG" />
+<a href="https://git.io/typing-svg" ><p style="text-align:center"><img src="https://readme-typing-svg.demolab.com?      font=white&pause=1000&color=7393B3&width=500&height=100&lines=Full+Stack+Developer;Leet+Coding;Mining;Profesional+Gamer;" alt="Typing SVG" /></p>
   </a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baalajis&label=views&color=42b40e&style=plastic" alt="baalajis" /> </p>
