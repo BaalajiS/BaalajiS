@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Baalaji sakthivel S</h1>
-<a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?      font=white&pause=1000&color=7393B3&center=True&vCenter=True&width=500&height=100&lines=Full+Stack+Developer;Profesional+Gamer;Leet+Coding;Crypto+miner" alt="Typing SVG" />
+<a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?      font=white&pause=1000&color=7393B3&width=500&height=100&lines=Full+Stack+Developer;Profesional+Gamer;Leet+Coding;Crypto+miner" alt="Typing SVG" />
   </a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baalajis&label=views&color=42b40e&style=plastic" alt="baalajis" /> </p>
