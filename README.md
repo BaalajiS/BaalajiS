@@ -32,11 +32,3 @@
 <img align="right" alt="GIF" height="120px" src="https://media1.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif?cid=ecf05e47kgy47ghmzz51zcm0k5u435h9lzecgvg87l66dueb&rid=giphy.gif&ct=s" />
 
 [![Spotify](https://novatorem-omega-five.vercel.app/api/spotify)](https://open.spotify.com/user/sp5lfmv4t2soha2ozufubmtto)
-<h3 align="left">Discord status:</h3>
-<div align="center">
-  
-[![Discord Presence](https://lanyard.cnrad.dev/api/455641472100728834)](https://discord.com/users/455641472100728834)
-  
-</div>
-
-<br/>
