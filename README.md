@@ -25,7 +25,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baalajis&show_icons=true&locale=en" alt="baalajis" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baalajis&theme=dark" alt="baalajis" /></p>
-SPOTIFY
+<h3 align="left">Spotify time:</h3>
 <img align="right" alt="GIF" height="120px" src="https://media1.giphy.com/media/cOfwtFobGCLJBU3DNn/giphy.gif?cid=ecf05e47kgy47ghmzz51zcm0k5u435h9lzecgvg87l66dueb&rid=giphy.gif&ct=s" />
 
 [![Spotify](https://novatorem-omega-five.vercel.app/api/spotify)](https://open.spotify.com/user/sp5lfmv4t2soha2ozufubmtto)
