@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baalajis&label=views&color=42b40e&style=plastic" alt="baalajis" /> </p>
 
-<p align="left"> <a href="https://twitter.com/baalaji sakthivel" target="blank"><img src="https://img.shields.io/twitter/follow/baalaji sakthivel?logo=twitter&style=for-the-badge" alt="baalaji sakthivel" /></a> </p>
-
 - 🌱 I’m currently learning **Computer Science Engineering**
 
 - 💬 Ask me about **Dart,python**
@@ -26,3 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=baalajis&show_icons=true&locale=en" alt="baalajis" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=baalajis&theme=dark" alt="baalajis" /></p>
+
