@@ -1,3 +1,5 @@
+<div style="width:100%;height:0;padding-bottom:89%;position:relative;"><iframe src="https://giphy.com/embed/xT9IgzoKnwFNmISR8I" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/code-coding-seamless-xT9IgzoKnwFNmISR8I">via GIPHY</a></p>
+
 <h1 align="center">Hi 👋, I'm Baalaji sakthivel S</h1>
 <a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?      font=white&pause=1000&color=7393B3&width=500&height=100&lines=Full+Stack+Developer;Leet+Coding;Mining;Profesional+Gamer;" alt="Typing SVG" />
   </a>
