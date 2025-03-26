@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Dart,python**
 
-- 📫 How to reach me **sbaa20344.cs@rmkec.ac.in**
+- 📫 How to reach me **sakthivelbaalaji@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
